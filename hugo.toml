@@ -1,0 +1,4 @@
+baseURL = 'https://robindarby.com/'
+languageCode = 'en-us'
+title = 'Robin Darby'
+theme = 'ananke'
